@@ -11,21 +11,19 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Statistics, Stony Brook University, 2022
+* M.S. in Statistics, Stony Brook University, 2019
+* B.S. in Information and Computing Science, Fudan University, 2017
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Nov 2023 - Present: Software Engineer, Machine Learning 
+  * Meta Platforms Inc, Video Recommendation
+ 
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+
+* March 2023 - Nov 2023: Senior Data Scientist
+  * Wal-mart Associates Inc, Marketing Decision Science
 
 * Summer 2015: Research Assistant
   * GitHub University
