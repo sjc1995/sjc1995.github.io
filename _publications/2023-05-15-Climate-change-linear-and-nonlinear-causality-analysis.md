@@ -2,7 +2,7 @@
 title: "Climate change: linear and nonlinear causality analysis"
 collection: publications
 category: manuscripts
-permalink: /publication/2023-5-15-Climate-change-linear-and-nonlinear-causality-analysis
+permalink: /publication/2023-05-15-Climate-change-linear-and-nonlinear-causality-analysis
 excerpt: 'We investigate both linear and nonlinear causal relationships among key climate indicators, such as CO₂ levels, temperature, and sea level. Using advanced causality testing methods, the paper uncovers complex dynamics underlying climate change and highlights potential predictive pathways.'
 date: 2023-05-15
 venue: 'Stats'
