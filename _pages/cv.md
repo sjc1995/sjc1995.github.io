@@ -6,7 +6,7 @@ author_profile: true
 redirect_from:
   - /resume
 ---
-
+[pdf](https://github.com/sjc1995/sjc1995.github.io/blob/main/files/resume_JiechengSong.pdf)
 {% include base_path %}
 
 Education

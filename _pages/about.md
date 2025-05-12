@@ -13,4 +13,4 @@ My research interests lie at the intersection of time series forecasting, causal
 
 Beyond work, I’m passionate about skiing, exploring new places through travel, and getting lost in a good novel. Whether carving down snowy slopes or immersed in fiction, I enjoy the balance between analytical thinking and creative exploration.
 
-Please feel free to contact me via my email.
+Please feel free to contact me via Linkedin or email.
