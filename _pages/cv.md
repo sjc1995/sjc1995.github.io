@@ -19,44 +19,27 @@ Work experience
 ======
 * Nov 2023 - Present: Software Engineer, Machine Learning 
   * Meta Platforms Inc, Video Recommendation
- 
-
 
 * March 2023 - Nov 2023: Senior Data Scientist
   * Wal-mart Associates Inc, Marketing Decision Science
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* September 2022 - March 2023: Applied Scientist
+  * Amazon.com Services LLC, Customer Engagement Technology
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Programming Languages
+  * Python, R, SQL, MATLAB, C/C++, SAS
+* Machine Learning Tools
+  * Pandas, Numpy, Scikit-Learn, Pyspark, PyTorch, Tensorflow, Transformers and etc.
+* Machine Learning Skills
+  * Regression, Clustering, Classification, Neural Network, Natural Language Processing (NLP), Reccomendation System
+* Developer Tools 
+  * Git, Airflow, VS Code, Docker, AWS, GCP
 
 Publications
 ======
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+
