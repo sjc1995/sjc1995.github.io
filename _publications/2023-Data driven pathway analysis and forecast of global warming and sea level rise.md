@@ -4,7 +4,7 @@ collection: publications
 category: manuscripts
 permalink: [Data driven pathway analysis and forecast of global warming and sea level rise](https://www.nature.com/articles/s41598-023-30789-4)
 excerpt: 'We propose a statistical framework that integrates climate variables and temporal trend analysis to forecast global warming patterns and future sea level rise. This data-driven approach offers interpretable insights into the environmental impacts of climate change and supports informed decision-making for climate resilience.'
-date: 2003
+date: 2003-01-01
 venue: 'Scientific Reports'
 citation: 'Song, J., Tong, G., Chao, J. et al. Data driven pathway analysis and forecast of global warming and sea level rise. Sci Rep 13, 5536 (2023). https://doi.org/10.1038/s41598-023-30789-4'
 ---
