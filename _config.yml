@@ -9,10 +9,10 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Jiecheng (Jason) Song / Homepage"
+title                    : "Jiecheng Song / Homepage"
 title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description "personal description"
+name                     : &name "Jiecheng Song"
+description              : &description "Machine Learning Engineer at Meta"
 url                      : https://sjc1995.github.io/ # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
@@ -20,8 +20,8 @@ url                      : https://sjc1995.github.io/ # the base hostname & prot
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
-  name             : "Jiecheng(Jason) Song"
+  avatar           : "songjiecheng_id.jpg"
+  name             : "Jiecheng (Jason) Song"
   pronouns         : "He/Him"  
   bio              : "I'm a Machine Learning Engineer at Meta with a Ph.D. in Statistics from Stony Brook University. My work focuses on time series forecasting, causal analysis, machine learning, NLP, and recommendation systems."
   location         : "Bay Area"
