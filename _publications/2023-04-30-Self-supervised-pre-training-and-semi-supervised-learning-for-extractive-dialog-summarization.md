@@ -1,7 +1,7 @@
 ---
 title: "Self-supervised Pre-training and Semi-supervised Learning for Extractive Dialog Summarization"
 collection: publications
-category: conferences
+category: manuscripts
 permalink: /publication/2023-04-30-Self-supervised-pre-training-and-semi-supervised-learning-for-extractive-dialog-summarization
 excerpt: 'This paper presents a novel approach for extractive dialogue summarization using self-supervised pre-training and semi-supervised learning. By leveraging unlabeled conversational data and minimal human supervision, the model significantly improves performance on summarization benchmarks, making it suitable for real-world customer service applications.'
 date: 2023-04-30
